@@ -39,4 +39,4 @@ Despues de eso puedes utilizar ya el script :)
 
 
 
-										!!Y dentro de poquito subire una caja de herramientas para los XSS!!
+							!!Y dentro de poquito subire una caja de herramientas para los XSS!!
